@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\practica6.Form1.resources
+obj\Debug\practica6.Properties.Resources.resources
+obj\Debug\practica6.csproj.GenerateResource.Cache
+bin\Debug\practica6.exe
+bin\Debug\practica6.pdb
+obj\Debug\practica6.exe
+obj\Debug\practica6.pdb
